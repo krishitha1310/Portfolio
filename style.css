@@ -604,7 +604,7 @@ body{
     align-items:center;
 
     height:220px;
-    text-decoration:none;
+    text-decoration:none;  
     color:white;
 
     background:rgba(255,255,255,0.08);
@@ -645,7 +645,7 @@ body{
 /* ---------get in touch card-------------- */
 #contact .container{
     padding-left:20px;
-    padding-right:20px;
+    padding-right:20px;   
 }
 .contact-card,
 .glass-card{
