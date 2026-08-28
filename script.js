@@ -1,7 +1,7 @@
 /* ================= LOADER ================= */
 
 window.addEventListener("load", () => {
-    setTimeout(() => {
+    setTimeout(() =>  {
         document.getElementById("loader").style.opacity = "0";
 
         setTimeout(() => {
