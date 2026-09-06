@@ -1,6 +1,6 @@
 /* ================= LOADER ================= */
 
-window.addEventListener ("load", () => {
+window.addEventListener ("load", () =>  {
     setTimeout(() =>  {
         document.getElementById("loader").style.opacity = "0";
 
