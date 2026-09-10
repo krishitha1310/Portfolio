@@ -427,7 +427,7 @@ cards.forEach(card => {
 setTimeout(() => {
 
     console.log(
-        "Welcome to Krishitha Premium Portfolio 🚀"
+        "Welcome to Krishitha Premium Portfolio"
     );
 
 }, 2000);
